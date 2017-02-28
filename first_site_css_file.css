@@ -1,3 +1,26 @@
-
-	body
-		{background-color: #232323;}
+body{
+	background-color: #232323;
+	max-width: 600px;
+	color: white;
+	margin: 0 auto;
+}
+div {
+	height: 250px;
+	background-size: cover;
+	position: relative;
+	margin: 40px 0 40px 0;
+	border-radius: 12px;
+}
+p {
+	color: rgba(255,150,240,.5);
+	background: rgba(0,0,0,.75);
+	padding: 10px;
+	line-height: 28px;
+	text-align: justify;
+	position: absolute;
+	top: 0;
+	margin: 0;
+}
+.france{
+	background-image: url("http://media.gettyimages.com/photos/man-looking-at-the-eiffel-tower-picture-id542559161?s=170667a");
+}
