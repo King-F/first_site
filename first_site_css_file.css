@@ -23,6 +23,7 @@ p {
 }
 .France{
 	background-image: url("http://media.gettyimages.com/photos/man-looking-at-the-eiffel-tower-picture-id542559161?s=170667a");
+	background-color: blue;
 }
 .Italy{
 	background-image: url("http://media.gettyimages.com/photos/sunrise-roman-forum-rome-italy-picture-id582021521?s=170667a");
@@ -36,10 +37,10 @@ p {
 .UnitedStates{
 	background-image: url("http://media.gettyimages.com/photos/rising-mist-at-sunrise-lake-district-national-park-uk-europe-picture-id637120912?s=170667a");
 }
-.Australia {
-	background-image: url("http://media.gettyimages.com/photos/sydney-harbour-picture-id56516254?s=170667a");
-}
+
 .Computer{
 	background-image: url("http://media.gettyimages.com/photos/laptop-in-typesetting-shop-picture-id670885897?s=170667a");
 }
-
+.Australia{
+	background-image: url("http://media.gettyimages.com/photos/sydney-harbour-picture-id56516254?s=170667a");
+}
