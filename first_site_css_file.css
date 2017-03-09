@@ -1,6 +1,7 @@
-head{
+header{
 	  background: url("https://s-media-cache-ak0.pinimg.com/originals/13/02/4f/13024fa0753a2760e0264b121f4e9740.jpg"); 
-      background-size: cover;}
+      background-size: cover;
+  }
 body{
 	background-color: #232323;
 	max-width: 600px;
